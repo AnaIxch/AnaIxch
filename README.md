@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on prepa 6
+- 🔭 Estudio en prepa 6
 - 🌱 I’m currently learning Git
 - 👯 I’m looking to collaborate on somewhere
 - 🤔 I’m looking for help with nature
